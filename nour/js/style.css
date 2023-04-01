@@ -1,0 +1,26 @@
+ h1{text-align: center;
+cursor:pointer;
+}
+#color{
+    color: #000;
+    color: #fff;
+}
+#positions{
+     position: relative;
+     position: static;
+     position: inherit;
+}
+#display {
+    top: 100px;
+    bottom: 50px;
+    left: 68px;
+    right: 95px;
+    padding: 100px;
+    padding-right: 100px;
+    margin-top: 100px;
+}
+#floot{
+    float: left;
+    float: right;float: none;
+    clear: both;
+}
